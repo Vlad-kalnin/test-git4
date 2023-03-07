@@ -5,3 +5,8 @@
 5. git log - подробная информация о комитах
 6. git push [rep_link] [branch_name]
 7. 
+
+master - главный код
+develop - код для разработки
+feature/main-page - код для разработки страницы
+feature/about-company - код для разработки информации о компании
